@@ -25,13 +25,13 @@ Hi {}, my name is {}!
 You can find the list of available commands with /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/93612a540608640355f20.mp4"
+BOT_IMAGE = "https://wallpaperchat.com/walls/full/c/0/8/2008446.jpg"
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is *{Roronoa Zoro}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @PhoenixSupport
+If you have any questions on how to use me, head over to @AnimaxChatZone
 
 *Main* commands available:
  - /start: start the bot
